@@ -10,6 +10,7 @@ description: A blog about technology and stuff related
 external-image: false
 picture: assets/images/profile.jpg
 
+
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
@@ -50,21 +51,21 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: mihirthakkar98@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Mihir Thakkar
+    bio: I drink data
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: ImMihirT
+#   jamesfoster:
+#     name: James Foster
+#     bio: A Man who develops software with coffee
+#     external-image: false
+#     picture: assets/images/james.jpg
+#     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
